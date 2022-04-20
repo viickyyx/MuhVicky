@@ -1,0 +1,2 @@
+# MuhVicky
+Tugas Algoritma
